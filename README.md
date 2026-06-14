@@ -1,7 +1,8 @@
 # IETF Datatracker Liaison Statement Tool
 
-[!WARNING]
-This is currently an experimental repository to discuss whether restructuring the issues from the repositories mentioned below in this way is useful. Should we pursue this path, this repo will be deleted and rebuilt based on feedback on improving its usefulness. This reorganization was constructed with the help of Claude.
+>[!WARNING]
+>This is currently an experimental repository to discuss whether restructuring the issues from the repositories mentioned below in this way is useful. Should we pursue this path, this repo will be deleted and rebuilt based on feedback on improving its usefulness. This reorganization was constructed with the help of Claude.
+> This is an alternative for discussion that varies from https://github.com/rjsparks/possible_liaison_issue_restructure by the ordering of approval and review for outgoing liaison statements.
 
 ---
 
